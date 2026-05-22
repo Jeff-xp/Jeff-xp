@@ -1,6 +1,34 @@
-## Olá, eu sou Jeff 👋
+## 🪐 Olá, eu sou Jefferson
 
-Atualmente estou estudando desenvolvimento backend com Java e construindo projetos para consolidar conhecimentos em lógica de programação, orientação a objetos e arquitetura de software.
-## Objetivo
+🎯 Em transição para a área de desenvolvimento, focado em me tornar Desenvolvedor Java Backend até 2028.
 
-Construir uma base sólida como desenvolvedor backend Java e aprendizado contínuo.
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=java,spring,git,github,mysql,idea,vscode" />
+
+</div>
+
+---
+
+## 🧭 Atualmente
+
+- 📖 Aprendendo Git e versionamento profissional
+- 🔨 Desenvolvendo pequenos projetos em Java com Alura e Dio
+- 🧪 Evoluindo fundamentos de backend
+- 🧱 Estruturando portfólio para oportunidades tech
+
+---
+
+## 🌐 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([SEU-LINKEDIN](https://www.linkedin.com/in/jefferson-ux/))
+
+---
+
+## 💡 Filosofia
+
+> "Consistência vence talento."
